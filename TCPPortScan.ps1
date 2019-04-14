@@ -198,7 +198,7 @@ Process{
   
         if($null -eq $Jobs_ToProcess)
         {
-            Write-Verbose -Message "No jobs completed, wait 500ms..."
+            Write-Verbose -Message "No jobs completed, wait 100ms..."
 
             Start-Sleep -Milliseconds 100
             continue
