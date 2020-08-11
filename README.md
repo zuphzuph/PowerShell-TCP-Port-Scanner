@@ -2,7 +2,7 @@
 
 Port Scanner in PS
 
-Scans using target: domain/hostname/FQDN
+Scans using target: IP/Domain/Hostname/FQDN
 
 Place ports.txt into the same directory as the script and run.
 
