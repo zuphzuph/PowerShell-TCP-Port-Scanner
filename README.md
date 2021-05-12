@@ -1,8 +1,8 @@
 # PowerShell-TCP-Port-Scanner
 
-Port Scanner in PowerShell
+TCP Port Scanner in PowerShell
 
-Scans using target: IP/Domain/Hostname/FQDN
+Scan using the following target types: IP/Domain/Hostname/FQDN
 
 Place ports.txt into the same directory as the script and run.
 
