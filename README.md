@@ -1,4 +1,4 @@
-# PowerShell-TCP-Port-Scan
+# PowerShell-TCP-Port-Scanner
 
 Port Scanner in PS
 
