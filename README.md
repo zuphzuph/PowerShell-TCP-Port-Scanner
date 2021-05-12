@@ -1,6 +1,6 @@
 # PowerShell-TCP-Port-Scanner
 
-Port Scanner in PS
+Port Scanner in PowerShell
 
 Scans using target: IP/Domain/Hostname/FQDN
 
